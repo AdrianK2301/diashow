@@ -20,3 +20,8 @@ img {
     border: 5px solid white;
     width: 50%;
 }
+
+button {
+border-radius: 5px;
+background-color: blue;
+}
